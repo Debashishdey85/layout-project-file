@@ -1,0 +1,131 @@
+
+body{
+    background-color: #000000;border-bottom: 1px solid #;margin: 0px;padding: 0px;
+}
+*{
+  box-sizing:border-box;  
+}
+.wrapper_all{
+    margin-bottom: 10px;border-bottom: 1px solid #1A1A1A;margin: 15px auto;padding-bottom: 50px;
+}
+.wrapper{
+    width: 900px;margin-left: auto;margin-right:  auto;background-color: white;padding: 15px;
+}
+.wrapper:after, .wrapper:before{
+    content: "";display: table;clear: both;
+}
+.col-1{
+    width: 100%;height: ;border: 2px solid #B6C4AB;float: left;
+}
+
+.a{
+    width: 20%;height: 97px;border: 2px solid #B6C4AB;float: left;padding:  -left: 20px;margin: 30px;
+}
+.b{
+  width: 40%;
+    height: 44px;
+    border: 2px solid #A6B78B;
+    float: left;
+    margin-left: 26%;
+    margin-top: 22px;
+}
+ .c{
+  width: 53%;
+    height: 48px;
+    border: 2px solid #A6B78B;
+    float: left;
+    margin-left: 19%;
+    margin-top: 5px;
+}   
+.row1{
+ width: 58%;
+    height: 129px;
+    border: 2px solid #A6B78B;
+    float: left;
+    /* margin-right: 2%; */
+    /* margin-top: 9px; */
+    margin: 2% 4% 0% 4%;
+}
+.row2{
+  width: 26%;
+    height: 190px;
+    border: 2px solid #A6B78B;
+    float: left;
+    /* margin-right: 2%; */
+    /* margin-top: 9px; */
+    margin: 2% 4% 0% 4%;
+}   
+.row3{
+  width: 31%;
+    height: 190px;
+    border: 2px solid #A6B78B;
+    float: left;
+    /* margin-right: 2%; */
+    /* margin-top: 9px; */
+    margin: -4% 4% 4% 4%;
+}   
+.row4{
+  width: 19%;
+    height: 190px;
+    border: 2px solid #A6B78B;
+    float: left;
+    /* margin-right: 2%; */
+    /* margin-top: 9px; */
+    margin: -4% 4% 4% 4%;
+}   
+.row5{
+  width: 58%;
+    height: 129px;
+    border: 2px solid #A6B78B;
+    float: left;
+    /* margin-right: 2%; */
+    /* margin-top: 9px; */
+    margin: -2% 4% 0% 4%;
+}   
+.row6{
+  width: 26%;
+    height: 262px;
+    border: 2px solid #A6B78B;
+    float: left;
+    /* margin-right: 2%; */
+    /* margin-top: 9px; */
+    margin: -16% 4% 2% 4%;
+}   
+ .row7{
+    width: 69%;
+    height: 46px;
+    border: 2px solid #A6B78B;
+    float: left;margin: 1% 15%;
+}
+.row8{
+  width: 45%;
+    height: 40px;
+    border: 2px solid #A6B78B;
+    float: left;
+    margin-left: 2%;
+    margin-top: 5px;
+}
+ .row9{
+  width: 51%;
+    height: 40px;
+    border: 2px solid #A6B78B;
+    float: left;
+    margin-left: 1%;
+    margin-top: 5px;
+    margin-bottom: 1%;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
